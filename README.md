@@ -1,4 +1,4 @@
-## Oiii eu sou o Victor Dev Full-Stack
+## Olá eu sou o Victor Dev Full-Stack
 <div align="center">
   <a href="https://github.com/Vkin-7">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vkin-7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
